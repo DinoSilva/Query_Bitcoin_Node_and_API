@@ -13,8 +13,10 @@ Using a BTC Node
 
   Make sure to set up your configurations in _conf.py_ , user, pass and node ip
 
-  Using an API Service (https://mempool.space/)
------------------------------------------------
+  Using an API Service (https://mempool.space/
+----------------------
   Use _API_Build_Block_Table.py_
-  Install the requests library using : $ python -m pip install requests
+  
+  Install the requests library using : $ python -m pip install requests 
+  
   Install the openpy library using : pip install openpyxl
