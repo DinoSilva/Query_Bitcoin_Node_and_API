@@ -3,6 +3,7 @@ Query Bitcoin Node and API
 ==========================
 
 The same code as main branch but using sqlite db to store block data. 
+
 Experiments on using APIs to query bitcoin block info, and also using a bitcoin node.
 
 Using a BTC Node
